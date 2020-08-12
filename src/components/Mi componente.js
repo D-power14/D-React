@@ -8,7 +8,7 @@ class MiComponente extends React.Component{
                <React.Fragment>
                     <h1> Hola, soy el componente llamado: Mi componente </h1>
                     <h2>Estoy testeando</h2>
-                    <hr/>
+                    <hr className="padding"/>
                </React.Fragment>
           
           );

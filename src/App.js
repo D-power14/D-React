@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './assets/images/logo.svg';
 import './assets/css/App.css';
-
+import './components/Contenido.js'
+import './components/footer.js'
 //importando componentes
 
 import MiComponente from './components/Mi componente.js';
